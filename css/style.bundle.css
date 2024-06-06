@@ -16423,7 +16423,8 @@ main {
 .tabsnav_v3 .tabsnav__links .tabsbuttons li a.change_leaderboard_tab--icon img {
   max-width: 1.77083vw;
   min-width: 1.77083vw;
-  height: 1.77083vw; }
+  height: 1.77083vw;
+  max-height: unset; }
 
 .tabsnav_v3 .tabsnav__links .tabsbuttons li a.change_leaderboard_tab--icon {
   padding-left: 0.9375vw !important; }
@@ -16964,7 +16965,8 @@ main {
   .tabsnav_v3 .tabsnav__links .tabsbuttons li a.change_leaderboard_tab--icon img {
     max-width: 3.11751vw;
     min-width: 3.11751vw;
-    height: 3.11751vw; }
+    height: 3.11751vw;
+    max-height: unset; }
   .maincontent_v3 .linkset_v2 .linkset__link {
     padding: 1.43885vw 0.71942vw; }
   .maincontent_v3 .itemsnav_v2 {
@@ -17089,7 +17091,8 @@ main {
   .tabsnav_v3 .tabsnav__links .tabsbuttons li a.change_leaderboard_tab--icon img {
     max-width: 6.875vw;
     min-width: 6.875vw;
-    height: 6.875vw; }
+    height: 6.875vw;
+    max-height: unset; }
   .btnicon img {
     max-width: 6.875vw;
     min-width: 6.875vw; }
@@ -17327,7 +17330,8 @@ main {
   .tabsnav_v3 .tabsnav__links .tabsbuttons li a {
     padding-top: 1.25vw;
     padding-bottom: 1.25vw;
-    height: 10.625vw; }
+    height: 10.625vw;
+    max-height: unset; }
     .tabsnav_v3 .tabsnav__links .tabsbuttons li a span {
       padding-left: 2.1875vw; }
   .tabsnav_v3 .tabsbuttons {
@@ -17368,7 +17372,8 @@ main {
   .tabsnav_v3 .tabsnav__links .tabsbuttons li a.change_leaderboard_tab--icon img {
     max-width: 8.125vw;
     min-width: 8.125vw;
-    height: 8.125vw; }
+    height: 8.125vw;
+    max-height: unset; }
   .maincontent_v3 .onlyDesktop {
     display: none !important; }
   .maincontent_v3 .linkset_v2 .linkset__link {
@@ -17432,7 +17437,8 @@ main {
     .mobilemenu_v3 .tabsnav__links .tabsbuttons li a img {
       height: 6.875vw;
       max-width: 6.875vw;
-      min-width: 6.875vw; }
+      min-width: 6.875vw;
+      max-height: unset; }
   .mobilemenu_v3 .tabsnav__links .tabsbuttons li a {
     display: flex;
     align-items: center; }
