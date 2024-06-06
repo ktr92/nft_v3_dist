@@ -16644,6 +16644,33 @@ main {
 .mentionscard__content {
   line-height: 140%; }
 
+.subscribelink_v3 .subscribelink__wrapper {
+  background-color: transparent; }
+
+.subscribelink_expires .subscribelink__content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.subscribelink_expires .subscribelink__title {
+  line-height: 100%;
+  margin-bottom: 0; }
+
+.subscribelink_expires .subscribelink__price {
+  line-height: 100%;
+  margin-bottom: 0.10417vw; }
+
+.subscribelink_v3 .subscribelink__content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.subscribelink_v3 .subscribelink__title {
+  line-height: 100%;
+  margin-bottom: 0.10417vw; }
+
 @media only screen and (max-width: 999px) {
   .pageasidev3 {
     flex-wrap: wrap;
@@ -17046,9 +17073,19 @@ main {
   .tabsnav.tabsnav_v3 .linkset__item.onlyTablet {
     display: block; }
   .tabsnav.tabsnav_v3 .linkset__item.onlyDesktop {
-    display: none; } }
+    display: none; }
+  .subscribelink_expires .subscribelink__price {
+    margin-bottom: 0.23981vw; }
+  .subscribelink_v3 .subscribelink__text {
+    line-height: 100%;
+    display: flex;
+    margin-bottom: 0; } }
 
 @media only screen and (max-width: 600px) {
+  .subscribelink_expires .subscribelink__text {
+    margin-bottom: 0.625vw; }
+  .subscribelink_v3 .subscribelink__title {
+    margin-bottom: 0.625vw; }
   .tabsnav_v3 .tabsnav__links .tabsbuttons li a.change_leaderboard_tab--icon img {
     max-width: 6.875vw;
     min-width: 6.875vw;
